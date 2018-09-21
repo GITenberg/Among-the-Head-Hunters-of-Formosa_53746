@@ -1,0 +1,32 @@
+_repo: Among-the-Head-Hunters-of-Formosa_53746
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Marett, R. R. (Robert Ranulph)
+    alias: Marett, Robert Ranulph
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '7272'
+    url: http://www.gutenberg.org/2009/agents/7272
+creator:
+  author:
+    agent_name: McGovern, Janet B. Montgomery
+    gutenberg_agent_id: '47513'
+    url: http://www.gutenberg.org/2009/agents/47513
+description: ''
+gutenberg_issued: '2016-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53746'
+  lccn: '23005695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Headhunters'
+- !lcsh 'Ethnology -- Taiwan'
+- !lcc 'DS'
+- GITenberg
+title: Among the Head-Hunters of Formosa
+url: http://www.gutenberg.org/ebooks/53746
